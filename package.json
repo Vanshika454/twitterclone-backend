@@ -6,12 +6,8 @@
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon index.js",
-<<<<<<< HEAD
-    "build": "npm install"
-=======
     "build": "npm install",
     "postinstall": "npm rebuild bcrypt"
->>>>>>> 2a0549378e1be802520092705057bda42993813e
   },
   "author": "Vanshika",
   "license": "ISC",
@@ -30,3 +26,4 @@
     "node": "20.x"
   }
 }
+
